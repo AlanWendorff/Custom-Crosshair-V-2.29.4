@@ -4,5 +4,5 @@ Custom Crosshair Version ENGLISH/SPANISH https://www.instagram.com/custom_crossh
 You can test the application with the "banana" image
 
 -New UI
--File explorer to fin .png image
+-File explorer to find .png image
 -Misc
