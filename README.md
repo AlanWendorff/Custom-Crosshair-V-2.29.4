@@ -7,8 +7,8 @@ You can test the application with the "banana" or "dot" image.
 
 -New UI:
   3 pages with different features.                                                                                        
-    First:  Instruccions for how does the program work;                                                            
-    Second: Preset Crosshair's (3 Types in red, black and green);                                                          
+    First:  Instruccions for how does the program work                                                            
+    Second: Preset Crosshair's (3 Types in red, black and green)                                                          
     third:  Custom Crosshair's tool.
     
 -Multi Language:                                                                                                  
