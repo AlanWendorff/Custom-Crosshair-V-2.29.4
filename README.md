@@ -9,7 +9,7 @@ You can test the application with the "banana" or "dot" image.
   3 pages with different features.                                                                                        
     First:  Instruccions for how does the program work                                                            
     Second: Preset Crosshair's (3 Types in red, black and green)                                                          
-    third:  Custom Crosshair's tool.
+    Third:  Custom Crosshair's tool.
     
 -Multi Language:                                                                                                  
   The program launch in English language but you can change it into the program.
