@@ -1,8 +1,6 @@
 # Custom-Crosshair-V-2.29.4
 Custom Crosshair Version 2.29.4 (last version)
 
-DOWNLOAD: Click over the green button "clone or download" and click download ZIP.
-
 You can test the application with the "banana" or "dot" image.
 
 -New UI:
