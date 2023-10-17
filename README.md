@@ -27,5 +27,3 @@ You can test the application with the "banana" or "dot" image.
   Better widget distribution,                                                                                       
   Bug filter,
   
-
-https://www.instagram.com/k_remowy/?hl=es-la Follow me on my Instagram to more info and how to use the program. If you like the program you can send feedback.  
